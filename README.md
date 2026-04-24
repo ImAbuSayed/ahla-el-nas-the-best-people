@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في سكون الليل
+> قلبي ينادي والهوى دليل
+> أنت الأمان في عالم طويل
+> وروحي إليك يا عمري تميل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
